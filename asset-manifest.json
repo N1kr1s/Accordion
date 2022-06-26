@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Reviews/static/css/main.8e9efb38.css",
-    "main.js": "/Reviews/static/js/main.379df88f.js",
-    "index.html": "/Reviews/index.html",
-    "main.8e9efb38.css.map": "/Reviews/static/css/main.8e9efb38.css.map",
-    "main.379df88f.js.map": "/Reviews/static/js/main.379df88f.js.map"
+    "main.css": "/Accordion/static/css/main.8e9efb38.css",
+    "main.js": "/Accordion/static/js/main.379df88f.js",
+    "index.html": "/Accordion/index.html",
+    "main.8e9efb38.css.map": "/Accordion/static/css/main.8e9efb38.css.map",
+    "main.379df88f.js.map": "/Accordion/static/js/main.379df88f.js.map"
   },
   "entrypoints": [
     "static/css/main.8e9efb38.css",
